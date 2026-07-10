@@ -11,6 +11,8 @@ permissions:
 jobs:
   send:
     runs-on: ubuntu-latest
+    # Safety guard: a stuck run can't burn Actions minutes past this.
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
