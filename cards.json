@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Why do so few people stick with their instrument through their whole lives?",
+    "answer": "Few people stick with their instrument because they never get the satisfaction they expected, and over time they lose interest. This is usually not due to a lack of talent or practice, but because they don't understand the information or language of music, which leads to frustration and loss of motivation.",
+    "source": "Lesson 1 — The 6 Main Areas of Music"
+  },
+  {
+    "question": "What 2 things do ya' gotta' do to be a REAL PLAYER?",
+    "answer": "To become a REAL PLAYER, you must (1) get to the end of the song, meaning you play whole songs rather than just riffs, and (2) stop and ask yourself \"How did I do?\" by analyzing your performance critically, often by recording yourself and listening back. This approach helps you understand music fully and improve systematically.",
+    "source": "Lesson 1 — The 6 Main Areas of Music"
+  },
+  {
+    "question": "What are the 6 MAIN AREAS of MUSIC?",
+    "answer": "The 6 main areas of music are Pitch, Rhythm, Timbre, Dynamics, Technique, and Notation. These cover aspects such as notes and scales (Pitch), beat and timing (Rhythm), sound quality and effects (Timbre), volume and loudness (Dynamics), physical playing methods (Technique), and reading written music (Notation). Understanding and being able to assess these areas helps you become a real player.",
+    "source": "Lesson 1 — The 6 Main Areas of Music"
+  },
+  {
+    "question": "What is PITCH?",
+    "answer": "Pitch is the concept of high and low notes in music, scientifically defined as frequency, which is the speed of vibration of a string producing sound waves. On a guitar, pitch is controlled by the mass of the string, the tension of the string (tuning and bending), and the length of the string (fretting). Essentially, pitch equals frequency, which equals the speed of vibration of the string.",
+    "source": "Lesson 2 — 4 Ways to Know Your Pitch Patterns"
+  },
+  {
+    "question": "How is TIMBRE different than PITCH?",
+    "answer": "Timbre refers to the tone or sound quality of the instrument, including aspects like the instrument's unique sound, EQ, and effects such as distortion. Pitch, on the other hand, is about the high and low notes or frequencies produced, specifically the actual notes and patterns like scales and chords. In short, pitch is about which notes you play, while timbre is about how those notes sound.",
+    "source": "Lesson 1 — The 6 Main Areas of Music"
+  },
+  {
+    "question": "How many NOTES are there in our system of PITCH?",
+    "answer": "There are 12 notes in our system of pitch. These include the seven natural notes (A to G) plus five sharps/flats (black keys), making a total of 12 notes that repeat in higher and lower octaves.",
+    "source": "Lesson 2 — 4 Ways to Know Your Pitch Patterns"
+  },
+  {
+    "question": "How many TYPES of PITCH PATTERNS can you name?",
+    "answer": "There are about 50 basic pitch patterns in Western music, which include 13 intervals, 14 scales, and 20 chords. These patterns are formed from the 12-note musical alphabet and are essential to learning guitar theory.",
+    "source": "Lesson 2 — 4 Ways to Know Your Pitch Patterns"
+  },
+  {
+    "question": "What are the 4 WAYS TO KNOW EACH PITCH PATTERN?",
+    "answer": "The 4 ways to know each pitch pattern are: THINK (understand the concepts and music theory), READ (recognize notation such as standard notation, tablature, and chord/scale finger boxes), HEAR (ear training to recognize and sing the patterns), and SPEAK (finger patterns and technique to play the patterns on the guitar). These correspond to learning the language of music in conceptual, visual, auditory, and physical forms.",
+    "source": "Lesson 2 — 4 Ways to Know Your Pitch Patterns"
+  },
+  {
+    "question": "What is EAR TRAINING and why is it so IMPORTANT?",
+    "answer": "Ear training is the process of learning to HEAR pitch patterns and recognize them by sound, such as scales, chords, and intervals. It is important because it helps you HEAR the real sound of music, enabling you to understand and internalize musical patterns, which is essential for playing guitar with your mind rather than just your fingers.",
+    "source": "Lesson 2 — 4 Ways to Know Your Pitch Patterns"
+  },
+  {
+    "question": "What are the NAMES of your STRINGS and why is your guitar TUNED that way?",
+    "answer": "The 6 strings of the guitar are named from low to high as E, A, D, G, B, E. They are tuned this way so that between most strings there are 4 notes (or frets) apart, except between the G and B strings, which are only 3 notes apart. This tuning matches the use of 4 fingers to play 4 frets in sequence and allows more chord fingerings, especially because the G and B strings being closer together avoids repeating notes unnecessarily.",
+    "source": "Lesson 3 — The \"Dumb Machine\""
+  },
+  {
+    "question": "What is a CHROMATIC SCALE and how do you play them ANYWHERE on the neck?",
+    "answer": "A CHROMATIC SCALE is a sequence of 13 notes all separated by half steps. To play a chromatic scale anywhere on the guitar neck, you start on any note and play every fret consecutively using your 4 fingers across 4 frets, then shift your hand position (using index or pinky shifts) to continue up or down the neck. Mastering this allows you to know every note on the guitar and play any pitch pattern.",
+    "source": "Lesson 7 — Music by the Numbers"
+  },
+  {
+    "question": "How many FRETS on each string does it actually require to play CHROMATICALLY?",
+    "answer": "To play all 12 notes chromatically on the guitar, it actually requires controlling 5 frets on each string. At the bottom of the neck, the open string acts as the 5th fret, while further up the neck you must learn finger shifts to cover 5 frets with 4 fingers.",
+    "source": "Lesson 3 — The \"Dumb Machine\""
+  },
+  {
+    "question": "How do INDEX SHIFTS and PINKY SHIFTS work?",
+    "answer": "INDEX SHIFTS and PINKY SHIFTS are techniques used to control 5 frets on the guitar neck by shifting finger positions. When going UP the scale, you walk up until you reach your pinky, then reach an extra fret with your INDEX finger on the next string and \"scoot\" it back onto the fret it would normally be on (Index shift). When coming DOWN the scale, you start with your pinky on the high E string, walk down to your index, then reach an extra fret with your PINKY on the next lower string and scoot it across (Pinky shift). No shift is required between the G and B strings because they are tuned one note closer together.",
+    "source": "Lesson 3 — The \"Dumb Machine\""
+  },
+  {
+    "question": "What is a CHORD and how many TYPES of chords are there?",
+    "answer": "A CHORD is multiple notes played simultaneously. There are about 50 types of chords in Western music, including common types like Major, minor, 6, 7, 9, 11, 13, augmented (aug), diminished (dim), and suspended (sus).",
+    "source": "Lesson 4 — Basic Stuff About Chords"
+  },
+  {
+    "question": "How many MINOR CHORDS are there and how many ways are there to play one?",
+    "answer": "There are 12 minor chords, one for each of the 12 notes. Each minor chord can be played in 5 basic finger forms (E, A, D, G, C forms), so there are 5 ways to play any minor chord.",
+    "source": "Lesson 4 — Basic Stuff About Chords"
+  },
+  {
+    "question": "What does the bar in a BAR CHORD do?",
+    "answer": "In a bar chord, the bar finger replaces the open strings as you move the chord shape up the neck, allowing you to play the same chord type in different keys by shifting the root note to the correct fret and string. Essentially, the bar finger acts as a movable capo, enabling the chord shape to be transposed along the fretboard.",
+    "source": "Lesson 4 — Basic Stuff About Chords"
+  },
+  {
+    "question": "How important is it to own a DRUM MACHINE?",
+    "answer": "Owning a drum machine is very important for practicing guitar because all music has rhythm, and practicing without a drum machine wastes your time. It helps you keep the beat and develop timing, which is crucial when switching chords with the beat. A mechanical time keeper like a drum machine is recommended over a metronome because it offers good sound and various rhythms.",
+    "source": "Lesson 6 — Picking, Strumming and Practicing"
+  },
+  {
+    "question": "How do you use STRUMMING PATTERNS to learn to SWITCH chords more quickly?",
+    "answer": "Strumming patterns help you learn to switch chords more quickly by increasing the rate of strumming, which reduces the time you have to form the next chord. As you strum more often (from one downstroke to double-time up/down strokes), you cut the time available to switch chords in half each time, challenging yourself to switch faster. Additionally, strumming patterns mix note durations and include missed strokes, which keep the rhythm interesting and help you practice clean chord changes with the beat.",
+    "source": "Lesson 6 — Picking, Strumming and Practicing"
+  },
+  {
+    "question": "Why is the NUMBER SYSTEM easier than the letters when \"spelling\" pitch patterns?",
+    "answer": "The Number System is easier than letters because it treats music as if there were only one key, allowing pitch patterns to be transposed into any key without memorizing 12 letter variations of each pattern. This system numbers the notes in a Major Diatonic Scale and expresses intervals and chords as spatial relationships, making memorizing spellings about 11 times easier.",
+    "source": "Lesson 7 — Music by the Numbers"
+  },
+  {
+    "question": "What are the NUMBER and INTERVAL patterns for a CHROMATIC SCALE?",
+    "answer": "A CHROMATIC SCALE is a sequence of 13 notes all separated by HALF steps. The interval pattern is therefore all half steps between each consecutive note.",
+    "source": "Lesson 7 — Music by the Numbers"
+  },
+  {
+    "question": "What are the NUMBER and INTERVAL patterns for a MAJOR DIATONIC SCALE?",
+    "answer": "A Major Diatonic Scale is numbered as 1 2 3 4 5 6 7 8, corresponding to the \"Do Re Mi\" scale. Its interval pattern is Whole step – Whole step – Half step – Whole step – Whole step – Whole step – Half step, with half steps occurring between the 3rd and 4th notes and between the 7th and 8th notes.",
+    "source": "Lesson 7 — Music by the Numbers"
+  },
+  {
+    "question": "How are MAJOR and MINOR CHORDS spelled and how do they DIFFER?",
+    "answer": "Major chords are spelled with the notes 1 – 3 – 5, while minor chords are spelled 1 – b3 – 5. The difference is that the minor chord has a flattened (lowered) 3rd note compared to the major chord, which gives the major chord a \"happy\" mood and the minor chord a \"sad\" mood.",
+    "source": "Lesson 7 — Music by the Numbers"
+  },
+  {
+    "question": "How many ways can you play a MAJOR SCALE on your guitar?",
+    "answer": "According to Lesson 7, there are many fingerings for the major scale on the guitar neck. The finger pattern reflects the major scale interval pattern and can be moved to play the scale in any of the 12 keys. However, the exact number of distinct fingerings is not specified in the provided excerpts.",
+    "source": "Lesson 7 — Music by the Numbers"
+  },
+  {
+    "question": "What are the 3 MOST IMPORTANT NOTES in music and how far apart are they?",
+    "answer": "The three most important notes in music are 1, 5, and 8, produced harmonically on any string at the 12th, 7th, and 5th fret harmonics respectively. The intervals between them are a perfect 5th from 1 to 5, a perfect 4th from 5 to 8, and a perfect octave from 1 to 8. These notes form the foundation of much of music, including chords and scales.",
+    "source": "Lesson 8 — Caveman Music Theory"
+  },
+  {
+    "question": "In NOTATION, what areas of music do the 2 axes of the musical GRAPH represent?",
+    "answer": "In notation, the musical graph has two axes: the vertical axis represents PITCH (higher on the graph means higher pitch), and the horizontal axis represents TIME (progressing from left to right, indicating rhythm).",
+    "source": "Lesson 9 — Notation"
+  },
+  {
+    "question": "How do you notate SHARPS and FLATS and how do KEY SIGNATURES work?",
+    "answer": "Sharps (#) raise a note's pitch, and flats (b) lower it. A key signature is a set of sharps or flats placed at the beginning of a staff that indicates which notes are consistently sharped or flatted throughout a piece to form a Major Diatonic Scale starting on the key's root note. For example, the key of G Major has one sharp (F#), so every F is played as F# unless canceled by a natural sign (♮). Key signatures avoid alphabetic redundancy and define the tonality of the music.",
+    "source": "Lesson 10 — More About Notation: Key Signatures & Rhythm Notation"
+  },
+  {
+    "question": "How does GUITAR NOTATION differ from standard GRAND STAFF notation?",
+    "answer": "Guitar notation differs from standard grand staff notation by being written one octave higher than it actually sounds, so it fits neatly on the treble (G) clef alone, using ledger lines below for the low strings. In contrast, the grand staff uses both treble and bass clefs to cover a wider pitch range. This octave transposition is a quirk specific to guitar notation to simplify reading.",
+    "source": "Lesson 9 — Notation"
+  },
+  {
+    "question": "How do TIME SIGNATURES work and how do they affect note DURATIONS?",
+    "answer": "Time signatures appear at the beginning of a staff and consist of two stacked numbers: the top number indicates how many beats are in each measure, and the bottom number specifies which note value counts as one beat (e.g., 4 means a quarter note gets one beat). Note durations depend on the time signature; for example, in 4/4 time, a whole note lasts 4 beats, but in 2/2 time, it lasts 2 beats. Additionally, dots can increase a note's duration by half, and tied notes combine durations. Thus, time signatures define the rhythmic structure and how long each note value lasts within that structure.",
+    "source": "Lesson 10 — More About Notation: Key Signatures & Rhythm Notation"
+  },
+  {
+    "question": "What is the most COMMON TIME SIGNATURE?",
+    "answer": "The most common time signature is 4/4, also called Common Time, which means there are 4 beats per measure and the quarter note gets one beat.",
+    "source": "Lesson 10 — More About Notation: Key Signatures & Rhythm Notation"
+  }
+]
