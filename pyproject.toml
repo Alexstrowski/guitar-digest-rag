@@ -1,0 +1,13 @@
+[project]
+name = "guitar-digest-rag"
+version = "0.1.0"
+description = "Guitar RAG digest"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.9",
+    "gradio>=6.20.0",
+    "openai>=2.45.0",
+    "pydantic>=2.13.4",
+    "python-dotenv>=1.2.2",
+]
