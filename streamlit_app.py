@@ -61,7 +61,7 @@ with st.expander("About this demo"):
         "The same notes also email me one question a day to keep it fresh."
     )
 
-st.session_state.setdefault("question", "")
+st.session_state.setdefault("question", st.query_params.get("q", ""))
 
 st.write("**Try an example:**")
 for col, example in zip(st.columns(len(EXAMPLES)), EXAMPLES):

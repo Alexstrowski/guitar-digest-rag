@@ -9,4 +9,4 @@ PREVIEW_PATH = ROOT / "digest_preview.html"
 # deck deterministically, so the exact anchor only sets which card shows first.
 START_DATE = date(2026, 7, 10)
 
-ASK_URL = "https://example.com/ask"
+ASK_URL = "https://guitar-digest-rag-m2crd3rgefjrjqpeabumha.streamlit.app"
